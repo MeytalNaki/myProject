@@ -15,7 +15,7 @@ import SignIn from './SignIn';
 const navigate =UseNavigate();
 const SignUp =()=>{
     navigate("/SignUp");
-
+var j=9;
 }
 export default function App() {
   return (
